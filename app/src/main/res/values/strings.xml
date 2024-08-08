@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">shopie</string>
+    <string name="login">Log In</string>
+    <string name="email">e-mail</string>
+    <string name="e_mail">e-mail</string>
+    <string name="signup">sign up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in_anonymously">Sign-in Anonymously</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="or">OR</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="add_to_chart">Add to Cart</string>
+    <string name="description">Description</string>
+    <string name="features">Features</string>
+    <string name="cart">Cart</string>
+    <string name="empty_favorite_list">You don\'t have any favorite!</string>
+    <string name="dolar">$  </string>
+    <string name="cart_empty_list_message">You don\'t have any cart!</string>
+    <string name="purchase">Purchase</string>
+    <string name="wordTotal">Total</string>
+    <string name="category">Category</string>
+    <string name="product_not_found">Product not found!</string>
+    <string name="search_for_product">Search here… <font size="11" /></string>
+    <string name="no_internet_connection">There is no internet connection!</string>
+    <string name="discover">Discover</string>
+</resources>
